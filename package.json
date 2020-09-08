@@ -1,0 +1,19 @@
+{
+  "name": "cpy-t",
+  "version": "1.0.0",
+  "description": "The Copy Tool, a Lite Copy Tool",
+  "main": "cpdir.js",
+  "scripts": {
+    "test": "node cpdir"
+  },
+  "bin": {
+    "cpy": "./cpdir.js"
+  },
+  "keywords": [
+    "copytool",
+	"cp",
+	"small_copytool"
+  ],
+  "author": "Sharkbyteprojects",
+  "license": "ISC"
+}
