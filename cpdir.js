@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 (()=>{
 const cpt =["CCCCCCCCCCCCCCC",
-			"CCCCCCCCCCCCCCC"
+			"CCCCCCCCCCCCCCC",
 			"CCCCCC",
 			"CCCC",
 			"CC",
